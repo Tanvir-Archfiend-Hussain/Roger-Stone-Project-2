@@ -1,5 +1,5 @@
 # Roger Stone Project 2
-<img src="" alt="" />
+<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/winter-birds-carmen-macuga.jpg" alt="" />
 This project was designed for me to learn how to link HTML files and work with videos and CSS.
 
 JAVASCRIPT 
